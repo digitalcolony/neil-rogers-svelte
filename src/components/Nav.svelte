@@ -4,7 +4,7 @@
 
 <style>
   nav {
-    border-bottom: 1px solid rgba(255, 62, 0, 0.1);
+    border-bottom: 0px solid rgba(255, 62, 0, 0.1);
     font-weight: 300;
     padding: 0 1em;
   }
@@ -57,26 +57,34 @@
   <ul>
 
     <li>
-      <a aria-current={segment === 'audio' ? 'page' : undefined} href="audio/">
+      <a
+        aria-current={segment === 'audio' ? 'page' : undefined}
+        href="audio/"
+        rel="prefetch">
         Audio
       </a>
     </li>
     <li>
       <a
         aria-current={segment === 'timeline' ? 'page' : undefined}
-        href="timeline/">
+        href="timeline/"
+        rel="prefetch">
         Timeline
       </a>
     </li>
     <li>
-      <a aria-current={segment === 'docs' ? 'page' : undefined} href="docs/">
+      <a
+        aria-current={segment === 'docs' ? 'page' : undefined}
+        href="docs/"
+        rel="prefetch">
         Docs
       </a>
     </li>
     <li>
       <a
         aria-current={segment === 'soundboard' ? 'page' : undefined}
-        href="soundboard/">
+        href="soundboard/"
+        rel="prefetch">
         Soundboard
       </a>
     </li>
@@ -85,3 +93,18 @@
     <!-- <li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">blog</a></li> -->
   </ul>
 </nav>
+{#if segment === undefined}
+  <h1>The Neil Rogers Show</h1>
+{:else if segment === 'audio'}
+  <h1>Download, Stream or Torrent Audio</h1>
+{:else if segment === 'timeline'}
+  <h1>Neil Rogers Timeline</h1>
+{:else if segment === 'docs'}
+  <h1>Docs</h1>
+{:else if segment === 'docs'}
+  <h1>Docs</h1>
+{:else if segment === 'soundboard'}
+  <h1>Neil Rogers Soundboard</h1>
+{:else}
+  <h1>Other</h1>
+{/if}

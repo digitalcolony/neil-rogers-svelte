@@ -1,8 +1,16 @@
+<script>
+  import Image from "svelte-image";
+  import Meta from "../components/Meta.svelte";
+</script>
+
 <svelte:head>
   <title>The Neil Rogers Show - Preserving the Legacy of the Radio God</title>
+  <link rel="canonical" href="https://neilrogers.org" />
+  <meta
+    name="description"
+    href="Audio archives for Miami radio legend Neil Rogers" />
+  <Meta />
 </svelte:head>
-
-<h1>The Neil Rogers Show</h1>
 
 <p>
   NeilRogers.org is the work of a collection of fans dedicated to preserving the
@@ -27,9 +35,9 @@
   .
 </p>
 
-<figure>
-  <img alt="Success Kid" src="images/successkid.jpg" />
-  <figcaption>Neil Rogers</figcaption>
+<figure style="max-width:650px;">
+  <Image src="images/neil-mask-radio.jpg" alt="Neil Rogers with mask" />
+  <figcaption>Neil Rogers at WQAM</figcaption>
 </figure>
 
 <h2>Connect and Share</h2>

@@ -1,7 +1,58 @@
+<script>
+  import { onMount } from "svelte";
+  import Soundboard from "../components/Sboard.svelte";
+  import SoundSearch from "../components/Search.svelte";
+  import Meta from "../components/Meta.svelte";
+
+  let searchTerm = "";
+  let sounds = [];
+  let displayList = [];
+
+  onMount(async () => {
+    const res = await fetch(`soundboard.json`);
+    sounds = await res.json();
+    displayList = sounds.files;
+  });
+
+  function filterList(list, query) {
+    displayList = sounds.files;
+    return displayList.filter(item => {
+      return (
+        item.name.toLowerCase().match(query.toLowerCase()) ||
+        item.artist.toLowerCase().match(query.toLowerCase())
+      );
+    });
+  }
+</script>
+
 <svelte:head>
-  <title>Soundboard</title>
+  <title>
+    The Neil Rogers Soundboard - Play drops from Neil, Jim Mandich, Larry King,
+    and More!
+  </title>
+  <link rel="canonical" href="https://neilrogers.org/soundboard/" />
+  <meta
+    name="description"
+    content="Over 300 drops from the Neil Rogers show that you can play on your
+    device." />
+  <Meta />
 </svelte:head>
 
-<h1>About this site</h1>
+<SoundSearch
+  bind:searchTerm
+  on:updateSearch={() => {
+    displayList = filterList(sounds, searchTerm);
+  }} />
 
-<p>This is the 'about' page. There's not much here.</p>
+<Soundboard bind:sounds={displayList} />
+
+<p>
+  The Simple Soundboard was coded using Svelte and is available for all to use
+  on
+  <a href="https://github.com/digitalcolony/simple-soundboard-svelte">GitHub</a>
+  . There is also a
+  <a href="https://github.com/digitalcolony/Simple-Soundboard">
+    jQuery version
+  </a>
+  .
+</p>

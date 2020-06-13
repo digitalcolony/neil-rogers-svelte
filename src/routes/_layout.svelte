@@ -1,10 +1,10 @@
 <script>
-	import Nav from '../components/Nav.svelte';
-
-	export let segment;
+  import Nav from "../components/Nav.svelte";
+  import Footer from "../components/Footer.svelte";
+  export let segment;
 </script>
 
-<style>
+<!-- <style>
 	main {
 		position: relative;
 		max-width: 56em;
@@ -13,10 +13,11 @@
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
-</style>
-
-<Nav {segment}/>
-
+</style> -->
+<header>
+  <Nav {segment} />
+</header>
 <main>
-	<slot></slot>
+  <slot />
 </main>
+<Footer />
