@@ -29,7 +29,7 @@
   [aria-current] {
     position: relative;
     display: inline-block;
-    color: black;
+    color: var(--color-text);
   }
 
   [aria-current]::after {
@@ -37,7 +37,7 @@
     content: "";
     width: calc(100% - 1em);
     height: 2px;
-    background-color: rgb(51, 12, 70);
+    background-color: var(--color-text);
     display: block;
     bottom: -1px;
   }

@@ -71,5 +71,5 @@
     </button>
   </span>
 {:else}
-  <p>No sounds</p>
+  <p>No sounds match the query or you are offline.</p>
 {/each}

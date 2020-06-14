@@ -11,7 +11,13 @@
   onMount(async () => {
     const res = await fetch(`soundboard.json`);
     sounds = await res.json();
-    displayList = sounds.files;
+
+    // sort soundboard drops into alphabetical order based on drop name
+    displayList = sounds.files.sort((a, b) => {
+      if (a.name < b.name) return -1;
+      if (a.name > b.name) return 1;
+      return 0;
+    });
   });
 
   function filterList(list, query) {

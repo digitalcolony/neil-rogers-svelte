@@ -5,7 +5,6 @@ ErrorDocument 404 /404/
 ## REDIRECTS ##
 Redirect /download/   /audio/
 Redirect /privacy-policy/ /docs/
-Redirect /sounds/ /audio/
 Redirect /sounds/drops-the-list/ /audio/
 Redirect /sounds/neil-rogers-play-rack/ /audio/
 Redirect /support/ /docs/
