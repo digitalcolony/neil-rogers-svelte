@@ -217,7 +217,7 @@
             "mp3": "sounds/Do-do-do-do.mp3"
         },
         {
-            "name": "Don Shula, I Fucked Him!",
+            "name": "Don Shula, I F*** Him!",
             "artist": "Greg Olin",
             "duration": "0:04",
             "mp3": "sounds/Don-Shula-I-Fd-Him.mp3"
@@ -373,28 +373,28 @@
             "mp3": "sounds/Go-Back-To-Canada-Espanol.mp3"
         },
         {
-            "name": "Go Back To New York you wop bastard",
+            "name": "Go Back To New York...",
             "artist": "",
             "duration": "0:03",
             "mp3": "sounds/Go-Back-To-New-York.mp3"
+        },
+        {
+            "name": "Go Back to Canada...",
+            "artist": "",
+            "duration": "0:03",
+            "mp3": "sounds/Go-Back-To-Canada.mp3"
+        },
+        {
+            "name": "Go Back to Cuba...",
+            "artist": "",
+            "duration": "0:03",
+            "mp3": "sounds/Go-Back-To-Cuba.mp3"
         },
         {
             "name": "Go Screw Yourself Rogers",
             "artist": "Fake Harry Carey",
             "duration": "0:03",
             "mp3": "sounds/Go-Screw-Yourself-Rogers.mp3"
-        },
-        {
-            "name": "Go back to Canada you Jew bastard",
-            "artist": "",
-            "duration": "0:03",
-            "mp3": "sounds/Go-Back-To-Canada.mp3"
-        },
-        {
-            "name": "Go back to Cuba you spic bastard",
-            "artist": "",
-            "duration": "0:03",
-            "mp3": "sounds/Go-Back-To-Cuba.mp3"
         },
         {
             "name": "Good Morning Americans It's Friday",
@@ -551,12 +551,6 @@
             "artist": "Joe Bowen",
             "duration": "0:08",
             "mp3": "sounds/Holy-Mackinaw.mp3"
-        },
-        {
-            "name": "Honey, Weitawe... Sonny We Move, Uh, Slow, But We're, We're Moving In The Right Direction",
-            "artist": "Don Shula",
-            "duration": "0:04",
-            "mp3": "sounds/Honey-Weitawe.mp3"
         },
         {
             "name": "How Ya'll Doing",
@@ -829,7 +823,7 @@
             "mp3": "sounds/It-is-So-Hard.mp3"
         },
         {
-            "name": "It takes forever to get the taste and smell out of your system",
+            "name": "It takes forever...",
             "artist": "Henry Barrow",
             "duration": "0:04",
             "mp3": "sounds/It-takes-forever-to-get-the-taste....mp3"
@@ -1405,6 +1399,12 @@
             "mp3": "sounds/Sister-Mary-Catherine-Jesus.mp3"
         },
         {
+            "name": "Sonny We Move, Uh, Slow...",
+            "artist": "Don Shula",
+            "duration": "0:04",
+            "mp3": "sounds/Honey-Weitawe.mp3"
+        },
+        {
             "name": "Spread Em And Say Cheese",
             "artist": "Jennifer Rehm",
             "duration": "0:02",
@@ -1459,7 +1459,7 @@
             "mp3": "sounds/Tears-Your-Kishkehs-Out.mp3"
         },
         {
-            "name": "Tengo Mucho Pellejo, Pero No Tengo Punta",
+            "name": "Tengo Mucho Pellejo",
             "artist": "Annamaria",
             "duration": "0:04",
             "mp3": "sounds/Tengo-Mucho-Pellejo-Pero-No-Tengo-Punta.mp3"
@@ -1531,7 +1531,7 @@
             "mp3": "sounds/The-sky-is-falling.mp3"
         },
         {
-            "name": "There's No Fags, In The, In The Church",
+            "name": "There's No Fags...In The Church",
             "artist": "",
             "duration": "0:02",
             "mp3": "sounds/There's-No-Fags-In-The-In-The-Church.mp3"

@@ -1,40 +1,41 @@
 <script>
-	export let status;
-	export let error;
+  import Image from "svelte-image";
+  import Meta from "../components/Meta.svelte";
+  export let status;
+  export let error;
 
-	const dev = process.env.NODE_ENV === 'development';
+  const dev = process.env.NODE_ENV === "development";
 </script>
 
 <style>
-	h1, p {
-		margin: 0 auto;
-	}
+  figure {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-	h1 {
-		font-size: 2.8em;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
-	}
-
-	p {
-		margin: 1em auto;
-	}
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
+  p {
+    text-align: center;
+  }
 </style>
 
 <svelte:head>
-	<title>{status}</title>
+  <title>404 - Page Not Found</title>
+  <meta name="robots" content="noindex,nofollow" />
+  <Meta />
 </svelte:head>
+<p>
+  The page you are looking for does not exist. Return to the
+  <a href="/">Home Page</a>
+  .
+</p>
+<figure>
 
-<h1>{status}</h1>
-
-<p>{error.message}</p>
+  <Image src="images/neil-sigh.jpg" alt="Neil Rogers page not found" />
+  <figcaption>Neil Rogers</figcaption>
+</figure>
 
 {#if dev && error.stack}
-	<pre>{error.stack}</pre>
+  <p>{error.message}</p>
+  <pre>{error.stack}</pre>
 {/if}
