@@ -1,7 +1,6 @@
 <script>
   import Image from "svelte-image";
   import Meta from "../components/Meta.svelte";
-  export let status;
   export let error;
 
   const dev = process.env.NODE_ENV === "development";
