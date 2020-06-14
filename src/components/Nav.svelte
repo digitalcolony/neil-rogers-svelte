@@ -94,17 +94,15 @@
   </ul>
 </nav>
 {#if segment === undefined}
-  <h1>The Neil Rogers Show</h1>
+  <h1>🎙The Neil Rogers Show</h1>
 {:else if segment === 'audio'}
-  <h1>Download, Stream or Torrent Audio</h1>
+  <h1>📻Download, Stream or Torrent Audio</h1>
 {:else if segment === 'timeline'}
-  <h1>Neil Rogers Timeline</h1>
+  <h1>⌚Neil Rogers Timeline</h1>
 {:else if segment === 'docs'}
-  <h1>Docs</h1>
-{:else if segment === 'docs'}
-  <h1>Docs</h1>
+  <h1>📄Docs</h1>
 {:else if segment === 'soundboard'}
-  <h1>Neil Rogers Soundboard</h1>
+  <h1>🔊Neil Rogers Soundboard</h1>
 {:else}
   <h1>Other</h1>
 {/if}

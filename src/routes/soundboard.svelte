@@ -49,10 +49,12 @@
 <p>
   The Simple Soundboard was coded using Svelte and is available for all to use
   on
-  <a href="https://github.com/digitalcolony/simple-soundboard-svelte">GitHub</a>
-  . There is also a
-  <a href="https://github.com/digitalcolony/Simple-Soundboard">
-    jQuery version
+  <a href="https://github.com/digitalcolony/simple-soundboard-svelte">
+    GitHub.
   </a>
-  .
+  There is also a
+  <a href="https://github.com/digitalcolony/Simple-Soundboard">
+    jQuery version.
+  </a>
+
 </p>

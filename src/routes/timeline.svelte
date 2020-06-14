@@ -10,6 +10,7 @@
   blockquote {
     max-width: 400px;
     font-style: italic;
+    float: left;
   }
 </style>
 
