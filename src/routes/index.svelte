@@ -23,16 +23,14 @@
 <p>
   If you have audio from Neil Rogers that you would like to share, we would love
   to add it to our archives. In addition to Neil, we also are archiving other
-  Florida talk shows. Our email is{' '}
-  <b>audio@neilrogers.org</b>
-  . Thank you.
+  Florida talk shows. Our email is audio@neilrogers.org. Thank you.
 </p>
 <p>
   To learn more about radio legend Neil Rogers see his page on{' '}
   <a href="https://en.wikipedia.org/wiki/Neil_Rogers">Wikipedia</a>
   or read our
-  <a href="/timeline/">Timeline</a>
-  .
+  <a href="/timeline/">Timeline.</a>
+
 </p>
 
 <figure style="max-width:650px;">
@@ -80,17 +78,17 @@
   <a href="https://itunes.apple.com/us/podcast/neil-rogers-show/id1231601174">
     iTunes
   </a>
-  {' '} or directly from the{' '}
-  <a href="http://feeds.feedburner.com/NeilRogersShow">Podcast RSS</a>
-  .{' '}
+  or directly from the{' '}
+  <a href="http://feeds.feedburner.com/NeilRogersShow">Podcast RSS.</a>
 </p>
 
 <h2>Friends of Neil</h2>
 
 <ul>
+<li><a href="https://www.davidcaprita.com/">David Caprita</a></li>
   <li>
     <a href="https://sites.google.com/site/donbrowne/wiod">
-      The Rick {'&'} Suds Show
+      The Rick & Suds Show
     </a>
   </li>
   <li>

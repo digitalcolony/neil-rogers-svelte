@@ -68,9 +68,9 @@
   a newsletter to various talk hosts. He was one of the most prolific crank
   callers in the Miami market, and managed to befriend some of the board ops. He
   was able to get inside information about the talk stations. Neil dubbed him
-  Fruit Cake, and the moniker stuck.{' '}
+  Fruit Cake, and the moniker stuck.
   <a href="https://archive.org/details/crankers-courier">Archive</a>
-  ,{' '}
+   and
   <a href="https://1drv.ms/u/s!AgQrITkx1J-8pPcHiQJAWd_dwKJKGw?e=GyryKE">
     OneDrive PDF Folder
   </a>
@@ -80,7 +80,7 @@
     href="https://medium.com/@CriticalMAS/learning-to-spell-with-neil-rogers-neil-rogers-dfe5a600ee72">
     Learning to Spell With Neil Rogers
   </a>
-  {' '} - Common spelling mistakes associated with the Neil Rogers Show.
+  - Common spelling mistakes associated with the Neil Rogers Show.
 </p>
 <hr />
 <h3>Support</h3>
@@ -105,8 +105,8 @@
 
 <p>
   Email
-  <b>audio@neilrogers.org</b>
-  . Thank you!
+  <b>audio@neilrogers.org.</b>
+  Thank you!
 </p>
 
 <h4>#2 Listen and Write Show Notes</h4>
@@ -119,12 +119,11 @@
 
 <ol>
   <li>
-    Go to YouTube and find a show without notes or peek at our shared{' '}
+    Go to YouTube and find a show without notes or peek at our shared
     <a
       href="https://docs.google.com/spreadsheets/d/1czK9DiOqCK_P8lYS5Im8a_u9IZnKW39lBAuq3FXdmRM/edit?usp=sharing">
-      Google Drive Spreadsheet
+      Google Drive Spreadsheet.
     </a>
-    .
   </li>
   <li>Listen to show and take notes.</li>
   <li>

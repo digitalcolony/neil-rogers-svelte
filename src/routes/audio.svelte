@@ -17,9 +17,9 @@
     <p>
       The Neil Rogers Audio Restoration Project has recovered almost{' '}
       <mark>
-        <b>5,000 hours of commercial-free radio</b>
+        <b>5,000 hours of commercial-free radio.</b>
       </mark>
-      . In addition to Neil Rogers, we also have shows from other South Florida
+      In addition to Neil Rogers, we also have shows from other South Florida
       radio icons. You are free to use the links below to download everything
       for free. No account is required.
     </p>
@@ -46,21 +46,21 @@
   <aside>
     <h3>Archive.org</h3>
     <p>
-      Archive.org now hosts all our Neil Rogers Show (plus the{' '}
+      Archive.org now hosts all our Neil Rogers Show plus the
       <a
         href="https://archive.org/details/RickSudsShow"
         target="_blank"
         rel="noopener noreferrer">
-        Rick Suds Show
+        Rick & Suds Show
       </a>
-      {' '} and{' '}
+      and
       <a
         href="https://archive.org/details/stan-major-show"
         target="_blank"
         rel="noopener noreferrer">
-        Stan Major
+        Stan Major.
       </a>
-      ). There you can stream, download, or torrent. We even have a folder for
+      There you can stream, download, or torrent. We even have a folder for
       unedited shows that still have the original commercials.
     </p>
     <p>

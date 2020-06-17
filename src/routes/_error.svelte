@@ -25,8 +25,7 @@
 </svelte:head>
 <p>
   The page you are looking for does not exist. Return to the
-  <a href="/">Home Page</a>
-  .
+  <a href="/">Home Page.</a>
 </p>
 <figure>
 

@@ -58,7 +58,7 @@
 
 <p>
   <em>
-    (Sources: Miami Herald Tropic 624-0191, April 28, 1985, Neil Rogers Show
+    Sources: Miami Herald Tropic 624-0191, April 28, 1985, Neil Rogers Show
     December 30, 1997 @64:20, March 1, 2005 @1:15:15) Michigan Radio (1964-1973)
   </em>
 </p>
@@ -86,10 +86,10 @@
 
 <p>
   <em>
-    (Sources: Miami Herald Tropic 624-0191, April 28, 1985, Neil Rogers Show
+    Sources: Miami Herald Tropic 624-0191, April 28, 1985, Neil Rogers Show
     March 16, 1999 @73:00, Neil Rogers Show November 5, 1999 @56:20, New Rogers
     Show November 17, 1999 @139:00, Neil Rogers Show (October 4, 1995) @8:00,
-    Neil Rogers Show September 15, 1998)
+    Neil Rogers Show September 15, 1998
   </em>
 </p>
 
@@ -114,7 +114,7 @@
   <figcaption>Neil Rogers at WSPB 1450</figcaption>
 </figure>
 <p>
-  <em>(Source: Miami Herald Tropic 624-0191, April 28, 1985)</em>
+  <em>Source: Miami Herald Tropic 624-0191, April 28, 1985</em>
 </p>
 
 <h3>West Palm Beach (1975)</h3>
@@ -122,7 +122,7 @@
 <p>Bill Calder hired Neil to work at WJNO 1290 (Palm Beach, FL)</p>
 
 <p>
-  <em>(Source: Miami Herald Tropic 624-0191, April 28, 1985)</em>
+  <em>Source: Miami Herald Tropic 624-0191, April 28, 1985</em>
 </p>
 
 <h3>Neil Begins Broadcasting in Miami (1976)</h3>
@@ -161,7 +161,7 @@
 <p>Neil Rogers debuted on WNWS on April 1, 1978.</p>
 
 <p>
-  <em>(Source: Miami News March 27, 1978)</em>
+  <em>Source: Miami News March 27, 1978</em>
 </p>
 
 <h3>Miami Hurricanes Baseball (1978-1983)</h3>
@@ -186,8 +186,8 @@
 
 <p>
   <em>
-    (Sources: WNWS SWITCHES SIGNS ON UM (Miami Herald - May 22, 1982), Neil
-    Rogers Show July 30, 1999)
+    Sources: WNWS SWITCHES SIGNS ON UM (Miami Herald - May 22, 1982), Neil
+    Rogers Show July 30, 1999
   </em>
 </p>
 
@@ -199,7 +199,7 @@
 </p>
 
 <p>
-  <em>(Source: Miami News Dec. 1, 1980 radio highlights)</em>
+  <em>Source: Miami News Dec. 1, 1980 radio highlights</em>
 </p>
 
 <h3>WINZ (1984)</h3>
@@ -217,7 +217,8 @@
 <h3>Zeta 4 (1987)</h3>
 
 <p>
-  On October 12, 1987, Neil moves to FM Radio when he debuts mornings on Zeta 4.
+  On October 12, 1987, Neil moves to FM Radio when he debuts mornings with Glen
+  "The Bird" Hill and Dave Caprita on Zeta 4.
 </p>
 
 <figure>
@@ -256,13 +257,13 @@
   (date not confirmed)
 </p>
 
+<p>The last WIOD show was on May 21, 1997.</p>
 <p>
-  The last WIOD show was on May 21, 1997.{' '}
   <em>
-    (Source:{' '}
+    Source:
     <a
       href="https://www.sun-sentinel.com/news/fl-xpm-1997-05-22-9705210816-story.html">
-      Rogers' Contract Bought Out May 22, 1997, Sun-Sentinel)
+      Rogers' Contract Bought Out May 22, 1997, Sun-Sentinel
     </a>
   </em>
 </p>
@@ -282,14 +283,14 @@
 <p>
   Neil’s TV show “Neil at Night” began broadcasting on Monday June 8th, 1998.
   The show Neil at Night ran on WAMI Channel 69 from 8:30-9:00 PM and again from
-  10:30-11:00 PM. It’s last show was on November 4, 1998.{' '}
+  10:30-11:00 PM. It’s last show was on November 4, 1998.
+</p>
+<p>
   <em>
-    (Source:{' '}
+    Source:
     <a href="https://youtu.be/-Dy78DytGXU">Neil Rogers WAMI video</a>
-    )
   </em>
 </p>
-
 <figure>
   <Image src="images/Neil_at_Night.jpg" alt="Neil at Night TV" />
   <figcaption>Neil at Night TV</figcaption>
@@ -297,23 +298,24 @@
 
 <p>
   Neil’s last public appearance was on May 17, 2008 at Gulfstream Park and
-  Casino in Hallandale.{' '}
+  Casino in Hallandale.
+</p>
+<p>
   <em>
-    (Source:{' '}
+    Source:
     <a
       href="https://web.archive.org/web/20080513061836/http://www.neilrogers.com/">
       archived copy of NeilRogers.com site
     </a>
-    )
   </em>
 </p>
 
+<p>On May 13, 2009, Jorge Rodriquez was fired by WQAM.</p>
 <p>
-  On May 13, 2009, Jorge Rodriquez was fired by WQAM.{' '}
-  <em>(Source: Neil Rogers Show May 14, 2009)</em>
+  <em>Source: Neil Rogers Show May 14, 2009</em>
 </p>
 
-<p>On June 12, 2009, was the last Neil Rogers Show.</p>
+<p>June 12, 2009 was the last Neil Rogers Show.</p>
 
 <h3>Retirement / Death (2010)</h3>
 
@@ -323,7 +325,7 @@
 </p>
 
 <p>
-  Memorial Service Produced by Sun-Sentinel / WSFL-TV:{' '}
+  Memorial Service Produced by Sun-Sentinel / WSFL-TV:
   <a href="https://youtu.be/tIVmUJHoEs0">
     Neil Rogers Celebration of Life! 1942-2010
   </a>
@@ -347,10 +349,10 @@
 <p>
   <em>
     Photos used in this timeline plus hundreds more can be viewed and downloaded
-    on the{' '}
+    on the
     <a href="https://www.flickr.com/photos/neilrogersradio">
       Neil Rogers Flickr
     </a>
-    {' '} account.
+    account.
   </em>
 </p>
