@@ -1895,6 +1895,54 @@
             "artist": "",
             "duration": "0:04",
             "mp3": "sounds/Test\u00edculos!.mp3"
+        },
+        {
+            "name": "Wait a Second",
+            "artist": "Phil Hendrie",
+            "duration": "0:01",
+            "mp3": "sounds/Wait-a-Second.mp3"
+        },
+        {
+            "name": "Eunich in a Whorehouse",
+            "artist": "Jim Mandich",
+            "duration": "0:02",
+            "mp3": "sounds/Eunich-in-a-Whorehouse.mp3"
+        },
+        {
+            "name": "God Bless America",
+            "artist": "Jim Mandich",
+            "duration": "0:04",
+            "mp3": "sounds/God-Bless-America.mp3"
+        },
+        {
+            "name": "I Don't Have a Clue",
+            "artist": "Jim Mandich",
+            "duration": "0:05",
+            "mp3": "sounds/Have-a-Clue.mp3"
+        },
+        {
+            "name": "Humongous Penis",
+            "artist": "Jim Mandich",
+            "duration": "0:08",
+            "mp3": "sounds/Humongous-Penis.mp3"
+        },
+        {
+            "name": "I Like Guys",
+            "artist": "Jim Mandich",
+            "duration": "0:01",
+            "mp3": "sounds/I-Like-Guys.mp3"
+        },
+        {
+            "name": "Lay Down on my Couch",
+            "artist": "Jim Mandich",
+            "duration": "0:02",
+            "mp3": "sounds/Lay-Down-on-my-Couch.mp3"
+        },
+        {
+            "name": "SOB is Huge",
+            "artist": "Jim Mandich",
+            "duration": "0:02",
+            "mp3": "sounds/SOB-Huge.mp3"
         }
     ]
 }
