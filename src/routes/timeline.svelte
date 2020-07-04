@@ -346,6 +346,16 @@
 </p>
 
 <p>In 2016, Neil Rogers was inducted to the National Radio Hall of Fame.</p>
+<p>Jorge Rodriguez passed away on July 3, 2020.</p>
+<p>
+  <em>
+    Source:
+    <a
+      href="https://deerfield-news.com/2020/07/04/south-florida-radio-host-and-neil-rogers-producer-protege-jorge-rodriguez-dies/">
+      Deerfield News
+    </a>
+  </em>
+</p>
 <p>
   <em>
     Photos used in this timeline plus hundreds more can be viewed and downloaded
