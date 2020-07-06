@@ -58,6 +58,9 @@
   <li>
     <a href="https://www.flickr.com/photos/neilrogersradio">Flickr</a>
   </li>
+  <li>
+    <a href="https://github.com/NeilRogersRadio">GitHub</a>
+  </li>
 </ul>
 
 <h2>The Neil Rogers Show Podcast</h2>
@@ -85,7 +88,9 @@
 <h2>Friends of Neil</h2>
 
 <ul>
-<li><a href="https://www.davidcaprita.com/">David Caprita</a></li>
+  <li>
+    <a href="https://www.davidcaprita.com/">David Caprita</a>
+  </li>
   <li>
     <a href="https://sites.google.com/site/donbrowne/wiod">
       The Rick & Suds Show
