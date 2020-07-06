@@ -30,15 +30,22 @@
     href="https://medium.com/@CriticalMAS/tribute-to-eric-harold-neil-rogers-780f7277d5f1">
     Tribute to Eric Harold
   </a>
-  {' '} - Eric was Neil's web guy throughout the WQAM years.
+  - Eric was Neil's web guy throughout the WQAM years.
 </p>
 <p>
   <a
     href="https://medium.com/@CriticalMAS/tribute-to-john-baker-neil-rogers-2c9127024b51">
     Tribute to John Baker
   </a>
-  {' '} - John was the greatest Neil historian ever and was essential in helping
-  us recover so much of Neil's memory.
+  - John was the greatest Neil historian ever and was essential in helping us
+  recover so much of Neil's memory.
+</p>
+<p>
+  <a
+    href="https://medium.com/@CriticalMAS/tribute-to-jorge-rodriguez-deec8bcc37d8">
+    Tribute to Jorge Rodriguez
+  </a>
+  - Jorge was the longtime producer and guest host for the Neil Rogers Show.
 </p>
 
 <h3>Media</h3>
@@ -70,7 +77,7 @@
   was able to get inside information about the talk stations. Neil dubbed him
   Fruit Cake, and the moniker stuck.
   <a href="https://archive.org/details/crankers-courier">Archive</a>
-   and
+  and
   <a href="https://1drv.ms/u/s!AgQrITkx1J-8pPcHiQJAWd_dwKJKGw?e=GyryKE">
     OneDrive PDF Folder
   </a>
