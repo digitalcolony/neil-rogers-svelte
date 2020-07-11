@@ -265,6 +265,12 @@
             "mp3": "sounds/Eliminate-Flames.mp3"
         },
         {
+            "name": "Enough of the Sucking",
+            "artist": "",
+            "duration": "0:01",
+            "mp3": "sounds/Enough-of-the-Sucking.mp3"
+        },
+        {
             "name": "Ewww!",
             "artist": "",
             "duration": "0:01",
