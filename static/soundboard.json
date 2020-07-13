@@ -193,6 +193,12 @@
             "mp3": "sounds/Coming-Directly-At-You.mp3"
         },
         {
+            "name": "Crap!",
+            "artist": "",
+            "duration": "0:01",
+            "mp3": "sounds/Crap.mp3"
+        },
+        {
             "name": "Dammit",
             "artist": "Suds Coleman",
             "duration": "0:01",
