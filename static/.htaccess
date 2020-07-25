@@ -1,6 +1,6 @@
 RewriteEngine On
 ## ERRORS ## 
-ErrorDocument 404 /
+ErrorDocument 404 /404/
 
 ## REDIRECTS ##
 Redirect /download/   /audio/

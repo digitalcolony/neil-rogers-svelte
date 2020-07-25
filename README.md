@@ -2,6 +2,8 @@
 
 This is the Svelte rewrite of the [Neil Rogers website](https://neilrogers.org).
 
-## Future
+## Custom 404
 
-I can't get the custom 404 in the Sapper Export build, so for now I'm using the .htaccess file to redirect 404 errors to the home page.
+The Svelte Custom 404 doesn't work right on the Sapper build, so I made a hack. There is a 404.svelte route that is linked to via a hidden link in the footer. Then on Apache, the 404 redirect is handled in the .htaccess file. In order for the image in the custom file to display, I had to use the full page to the server. The Svelte image path for the 404 error only worked on localhost. 
+
+If there is a better solution, my search skills failed me. The hacks I found did not work. 
