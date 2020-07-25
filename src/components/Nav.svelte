@@ -104,5 +104,5 @@
 {:else if segment === 'soundboard'}
   <h1>🔊Neil Rogers Soundboard</h1>
 {:else}
-  <h1>Other</h1>
+  <h1>😲404 Page Not Found</h1>
 {/if}
