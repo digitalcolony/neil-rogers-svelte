@@ -89,6 +89,13 @@
   </a>
   - Common spelling mistakes associated with the Neil Rogers Show.
 </p>
+<p>
+  <a
+    href="https://medium.com/@CriticalMAS/rewriting-the-neil-rogers-website-in-svelte-4673cd59f5f9">
+    Rewriting the Neil Rogers Website in Svelte
+  </a>
+  - Information on the 2020 rewrite of the Neil Rogers website.
+</p>
 <hr />
 <h3>Support</h3>
 <p>
