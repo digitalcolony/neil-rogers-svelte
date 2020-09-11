@@ -42,3 +42,9 @@
 <meta name="msapplication-square150x150logo" content="/mstile-150x150.png" />
 <meta name="msapplication-wide310x150logo" content="/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="/mstile-310x310.png" />
+
+<meta property="og:title" content="The Neil Rogers Show">
+<meta property="og:description" content="Preserving the legacy of the Radio God.">
+<meta property="og:image" content="https://neilrogers.org/images/neil-jorge.jpg">
+<meta property="og:url" content="https://neilrogers.org">
+<meta name="twitter:card" content="summary_large_image">
