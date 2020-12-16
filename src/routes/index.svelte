@@ -9,12 +9,16 @@
   <meta
     name="description"
     href="Audio archives for Miami radio legend Neil Rogers" />
+  <meta
+    name="google-site-verification"
+    content="Tt0CP6c9ni-EVyi-oc5D1QY3OYR5ExcZoxdjeMMmiiA" />
   <Meta />
 </svelte:head>
 
 <p>
-  If you've found this site after watching the HBO documentary <b>537 Votes</b>, you've
-  come to the right spot.
+  If you've found this site after watching the HBO documentary
+  <b>537 Votes</b>
+  , you've come to the right spot.
 </p>
 
 <p>
@@ -94,23 +98,30 @@
 
 <ul>
   <li>
+    <a href="https://soflochannel.com/">SoFloChannel</a>
+    (streaming Neil and Jorge)
+  </li>
+  <li>
+    <a
+      href="https://www.youtube.com/watch?list=PLWLdPbUmHlwEHf-KDM_aCLFQJezAvQ4lX&v=gC5xglFjNdE">
+      Jorge Rodriguez (RIP)
+    </a>
+    (YouTube Playlist)
+  </li>
+  <li>
+    <a href="http://www.thebritsomersshow.com/">Brit Somers</a>
+  </li>
+  <li>
     <a href="https://www.davidcaprita.com/">David Caprita</a>
-  </li>
-  <li>
-    <a href="https://sites.google.com/site/donbrowne/wiod">
-      The Rick & Suds Show
-    </a>
-  </li>
-  <li>
-    <a href="https://sofloradio.com/the-jorge-rodriguez-show/">
-      Jorge Rodriguez
-    </a>
   </li>
   <li>
     <a href="https://www.normkentshow.com/">Norm Kent</a>
   </li>
+
   <li>
-    <a href="http://www.thebritsomersshow.com/">Brit Somers</a>
+    <a href="https://sites.google.com/site/donbrowne/wiod">
+      The Rick & Suds Show
+    </a>
   </li>
   <li>
     <a href="https://stanmajor.blogspot.com/">Stan Major (RIP)</a>

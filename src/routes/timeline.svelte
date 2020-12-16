@@ -356,8 +356,12 @@
     </a>
   </em>
 </p>
-<p>The HBO Documentary <a href="https://www.hbo.com/documentaries/537-votes">537 Votes</a> Votes released in October 2020 featured 
-numerous audio clips from the Neil Rogers Show.</p>
+<p>
+  The HBO Documentary
+  <a href="https://www.hbo.com/documentaries/537-votes">537 Votes</a>
+  released in October 2020 featured numerous audio clips from the Neil Rogers
+  Show.
+</p>
 <p>
   <em>
     Photos used in this timeline plus hundreds more can be viewed and downloaded
